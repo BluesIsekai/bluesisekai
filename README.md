@@ -47,6 +47,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bluesisekai/bluesisekai/output/snake.svg" alt="Snake animation" />
-
 ###
