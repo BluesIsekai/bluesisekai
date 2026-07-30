@@ -52,12 +52,6 @@ A lightweight desktop media downloader built around **yt-dlp**, with a modern UI
 
 `Tauri` `React` `TypeScript` `yt-dlp`
 
-### 🌐 Dynamic Multi-Protocol Traffic Optimizer
-
-A network experimentation project that dynamically chooses between different transport protocols based on real-time network conditions.
-
-`C++` `TypeScript` `QUIC` `HTTP/3` `UDP`
-
 ## 📊 GitHub
 
 <div align="center">
