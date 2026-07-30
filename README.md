@@ -56,17 +56,9 @@ A lightweight desktop media downloader built around **yt-dlp**, with a modern UI
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BluesIsekai&show_icons=true&theme=transparent&hide_border=true" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=BluesIsekai&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BluesIsekai&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
-
-## 🐍 Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BluesIsekai/BluesIsekai/output/github-contribution-grid-snake-dark.svg" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=BluesIsekai&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
