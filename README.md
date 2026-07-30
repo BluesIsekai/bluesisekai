@@ -64,6 +64,18 @@ A lightweight desktop media downloader built around **yt-dlp**, with a modern UI
 
 ---
 
+## 🐍 Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BluesIsekai/BluesIsekai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BluesIsekai/BluesIsekai/output/github-contribution-grid-snake.svg">
+  <img alt="BluesIsekai's contribution snake" src="https://raw.githubusercontent.com/BluesIsekai/BluesIsekai/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
 <div align="center">
 
 ### `Thanks for stopping by.`
