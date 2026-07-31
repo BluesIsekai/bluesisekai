@@ -80,6 +80,6 @@ A lightweight desktop media downloader built around **yt-dlp**, with a modern UI
 
 ### `Thanks for stopping by.`
 
-<sub>Now go look at my questionable code ↓</sub>
+<sub>Explore what I've been building ↓</sub>
 
 </div>
