@@ -1,26 +1,15 @@
 <div align="center">
-
-# 👋 Hey, I'm BluesIsekai
-
-### Developer • Open Source • Linux Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4DA6FF&center=true&vCenter=true&width=600&lines=Building+things+that+seem+interesting;Breaking+Linux+and+fixing+it+again;Learning+one+commit+at+a+time;Welcome+to+my+corner+of+GitHub+%3A)" />
-
-<br/>
-
-> **Code. Experiment. Break things. Learn. Repeat.**
-
+  <img src="./assets/bluesisekai-banner.gif" width="100%" alt="BluesIsekai" />
 </div>
 
----
+<br>
 
 ## 🧑‍💻 About Me
 
 ```ts
 const bluesisekai = {
-    role: "Developer",
+    role: "idk, make stuff?",
     interests: ["Web", "Systems", "Open Source", "Linux"],
-    currentlyBuilding: "MeowLoad 🐱",
     environment: "Arch Linux + Hyprland",
     philosophy: "If it sounds fun, build it."
 };
