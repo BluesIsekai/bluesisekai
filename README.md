@@ -33,14 +33,6 @@ const bluesisekai = {
 
 </div>
 
-## 🚀 What I'm Building
-
-### 🐱 MeowLoad
-
-A lightweight desktop media downloader built around **yt-dlp**, with a modern UI and zero terminal wrestling.
-
-`Tauri` `React` `TypeScript` `yt-dlp`
-
 ## 📊 GitHub
 
 <div align="center">
